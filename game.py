@@ -1,5 +1,5 @@
 import time
-from TicTacToe.player import HumanPlayer, RandomComputerPlayer
+from player import HumanPlayer, RandomComputerPlayer
 
 class TicTacToe:
     def __init__(self):
